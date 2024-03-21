@@ -1,4 +1,4 @@
-# Insider Test Report
+# Insider Automated UI Testing Report
 
 ## Task Overview: 
 The purpose of this test was to verify the accessibility and functionality of Insider's Career page, focusing on the Quality Assurance (QA) job listings in Istanbul, Turkey. The following tasks were performed, each as a separate test:
