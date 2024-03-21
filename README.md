@@ -51,7 +51,7 @@ Result: Passed
 
 Comments: "Quality Assurance" was selected.
 
-### Test 8: View Role Tab Click:
+### Test 9: View Role Tab Click:
 
 Result: Passed
 
