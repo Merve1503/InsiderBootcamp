@@ -21,6 +21,18 @@ Form Submission Testing: Validate the submission process of forms, such as conta
 Content Validation: Ensure that the content displayed on various pages matches the expected content.
 Functionality Testing: Test specific features or functionalities offered by the Insider website, such as search functionality or interactive elements.
 
+## Test Results
+
+| Test Description     | Result     | Comments     |
+|------------|-------------|-------------|
+| Homepage Accessibility | Passed | The Insider homepage loaded successfully. |
+| Company Tab Click | Passed | The "Company" tab was selected. |
+| Careers Tab Click | Passed | The "Careers" tab was navigated to successfully. |
+| Find your dream job Tab Click | Passed | The "Find your dream job" tab was selected. |
+| Location Filtering | Passed | "Istanbul, Turkey" location was successfully selected. |
+| Department Filtering | Passed | "Quality Assurance" department was successfully selected.|
+| View Role Tab Click | Passed | The "View Role" button was clicked successfully. |
+
 ## Test Structure
 The test codebase was structured as follows:
 
